@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.6",
+    "heartbeatAt": "2024-03-18T08:52:38.811743",
+    "startedAt": "2024-03-18T08:52:37.419742",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Desktop/STGCN-PyTorch-master/main.ipynb",
+    "codePathLocal": null,
+    "root": "C:\\Users\\Administrator",
+    "host": "DESKTOP-J4E5AV3",
+    "username": "Administrator",
+    "executable": "c:\\users\\administrator\\appdata\\local\\programs\\python\\python38\\python.exe",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2511.0,
+        "min": 0.0,
+        "max": 2712.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2511.0,
+            "min": 0.0,
+            "max": 2712.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 99.3203010559082,
+            "used": 96.13502883911133
+        }
+    },
+    "gpu": "NVIDIA GeForce 940MX",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce 940MX",
+            "memory_total": 2147483648
+        }
+    ],
+    "memory": {
+        "total": 7.887916564941406
+    }
+}
